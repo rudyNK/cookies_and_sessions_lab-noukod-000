@@ -1,5 +1,5 @@
 # require 'rails_helper'
-# 
+#
 # RSpec.describe "products/index", :type => :view do
 #   before do
 #     controller.singleton_class.class_eval do
@@ -10,7 +10,7 @@
 #         helper_method :cart
 #     end
 #   end
-# 
+#
 #   it "shows everything in the cart" do
 #     session[:cart] = ['apples', 'bananas', 'pears']
 #     render
